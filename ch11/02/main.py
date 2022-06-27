@@ -1,7 +1,7 @@
 def show_menu():
     print("1. Add To Do")
     print("2. Delete To Do")
-    print("3. Quite")
+    print("3. Quit")
 
 def add_todo(todo_list):
     user_input = input("To Do: ")
